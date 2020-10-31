@@ -1,0 +1,25 @@
+---
+title: INSTALACIÓN JDK
+---
+
+1. Nos ubicamos en la ruta donde se encuentra el archivo de instalación, en mi caso se encuentra en la ruta */home/obpm/instaladores/1_JDK* 
+
+    ![jdk_1](../assets/obpm/centos/jdk/jdk_1.png)
+
+2. Ejecutamos el siguiente comando para dar inicio con la instalación.
+
+        # rpm -ivh jdk-8u192-linux-x64.rpm
+
+    ![jdk_2](../assets/obpm/centos/jdk_2.png)
+
+3. Verificamos que se haya instalado los archivos del *jdk* en la ruta */usr/java/jdk1.8.0_271-amd64/*.
+
+        # ls /usr/java/jdk1.8.0_192-amd64/
+
+    ![jdk_3](../assets/obpm/centos/jdk_3.png)
+
+4. Verificamos que el *jdk* fue instalado correctamente.
+
+        # java -version
+
+    ![jdk_4](../assets/obpm/centos/jdk_4.png)
