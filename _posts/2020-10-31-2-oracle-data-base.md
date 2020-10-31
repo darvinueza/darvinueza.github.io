@@ -1,6 +1,6 @@
----
-title: INSTALACIÓN JDK
----
+<div align="center">
+    <h1>INSTALACIÓN ORACLE DATA BASE</h1>
+</div>
 
 1. Nos ubicamos en la ruta donde se encuentra el archivo de instalación, en mi caso se encuentra en la ruta */home/obpm/instaladores/1_JDK* 
 
@@ -10,16 +10,22 @@ title: INSTALACIÓN JDK
 
         # rpm -ivh jdk-8u192-linux-x64.rpm
 
-    ![jdk_2](../assets/obpm/centos/jdk_2.png)
+    ![jdk_2](../assets/obpm/centos/jdk/jdk_2.png)
 
 3. Verificamos que se haya instalado los archivos del *jdk* en la ruta */usr/java/jdk1.8.0_271-amd64/*.
 
         # ls /usr/java/jdk1.8.0_192-amd64/
 
-    ![jdk_3](../assets/obpm/centos/jdk_3.png)
+    ![jdk_3](../assets/obpm/centos/jdk/jdk_3.png)
 
 4. Verificamos que el *jdk* fue instalado correctamente.
 
         # java -version
 
-    ![jdk_4](../assets/obpm/centos/jdk_4.png)
+    ![jdk_4](../assets/obpm/centos/jdk/jdk_4.png)
+
+<div align="right">
+    <a href="obpm-centos-install">
+        <img src="../assets/icons/boton-back.png" title="Instalación OBPM Centos"  />
+    </a>
+</div>
