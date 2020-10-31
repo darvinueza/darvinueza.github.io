@@ -4,7 +4,13 @@ description: El presente documento pretende servir de guía para dar inicio a la
 published: true
 ---
 
+<div align="center">
+    <h1>ORACLE BPM 12c INSTALLATIONS</h1>
+</div>
 
+<div align="center">
+    <h2>Centos 7</h2>
+</div>
 
 El presente documento pretende servir de guía para dar inicio a la instalación de un ambiente de desarrollo de **Oracle Business Process Management Standard Edition** en Centos 7.
 
