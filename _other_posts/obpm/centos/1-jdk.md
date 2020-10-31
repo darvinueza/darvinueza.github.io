@@ -1,6 +1,5 @@
 ---
 title: INSTALACIÓN JDK
-published: true
 ---
 
 1. Nos ubicamos en la ruta donde se encuentra el archivo de instalación, en mi caso se encuentra en la ruta */home/obpm/instaladores/1_JDK* 
