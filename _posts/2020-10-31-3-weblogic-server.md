@@ -6,6 +6,8 @@ flag: false
 
 1. Nos deslogeamos como *root* y nos logeamos con el usuario que deseamos instalar, en mi caso el usario se llama *obpm*.
 
+        # su obpm
+
     ![wlg_1](../assets/obpm/centos/weblogic/wlg_1.png)
 
 2. Abrimos una terminal y nos ubicamos en la ruta donde se encuentran los instaladores, en nuestro caso lo tenemos en */home/obpm/instaladores/3_WEBLOGIC*.
