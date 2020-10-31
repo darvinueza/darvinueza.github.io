@@ -4,6 +4,7 @@ layout: default
 
 <ul>
   {% for post in paginator.posts %}
+  {console.log(post.url)}
   <li>
     <h2>
       <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
