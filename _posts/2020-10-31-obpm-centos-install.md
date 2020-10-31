@@ -44,7 +44,7 @@ Antes de dar inicio a la instalación, por favor **descargue** los respectivos i
 Se presenta la lista de herramientas que se requiere para completar la instalación de Oracle BPM 12c, el orden de instalación que se presenta en este manual no es algo que se deba respetar al pie de la letra, en caso de no tener previos conocimientos de la herramienta se sugiere seguir estos pasos.
 
 1. [Instalación JDK](1-jdk)
-1. <a href="">Instalación JDK</a>
+1. <a href="obpm/centos/1-jdk.md">Instalación JDK</a>
 2. [Instalación Oracle Data Base](recursos/2_ORACLE_DATA_BASE.md)
 3. [Instalación Oracle Weblogic Server](recursos/3_WEBLOGIC.md)
 4. [Instalación Oracle SOA Suite](recursos/4_SOA.md)
