@@ -1,6 +1,7 @@
 ---
 title: INSTALACIÓN ORACLE DATA BASE
 published: true
+flag: false
 ---
 
 

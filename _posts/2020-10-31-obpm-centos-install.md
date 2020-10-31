@@ -2,6 +2,7 @@
 title: ORACLE BPM 12c INSTALLATIONS CENTOS 7
 description: El presente documento pretende servir de guía para dar inicio a la instalación de un ambiente de desarrollo de Oracle Business Process Management Standard Edition en Centos 7.
 published: true
+flag: true
 ---
 
 El presente documento pretende servir de guía para dar inicio a la instalación de un ambiente de desarrollo de **Oracle Business Process Management Standard Edition** en Centos 7.
