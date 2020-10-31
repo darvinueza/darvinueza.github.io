@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Oracle BPM 12c Installations
 published: true
 ---
 
