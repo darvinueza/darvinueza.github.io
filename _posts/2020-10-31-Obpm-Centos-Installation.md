@@ -39,7 +39,9 @@ Antes de dar inicio a la instalación, por favor **descargue** las siguientes he
 
     ![4](../assets/centos/obpm/obpm_4.png)
 
+## INSTALACIÓN
 
+Se presenta la lista de herramientas que se requiere para completar la instalación de Oracle BPM 12c, el orden de instalación que se presenta en este manual no es algo que se deba seguir al pie de la letra, en caso de no tener previos conocimientos de la herramienta se sugiere seguir estos pasos.
 
 [Link to another page](another-page).
 
