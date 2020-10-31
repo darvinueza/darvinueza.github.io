@@ -1,5 +1,5 @@
 ---
-title: Oracle BPM 12c Installations Centos 7
+title: ORACLE BPM 12c INSTALLATIONS CENTOS 7
 description: El presente documento pretende servir de guía para dar inicio a la instalación de un ambiente de desarrollo de Oracle Business Process Management Standard Edition en Centos 7.
 published: true
 ---
@@ -8,13 +8,36 @@ El presente documento pretende servir de guía para dar inicio a la instalación
 
 ## REQUISITOS
 
-Antes de dar inicio a la instalación, por favor **descargue** las herramientas necesarias.
+Antes de dar inicio a la instalación, por favor **descargue** las siguientes herramientas.
 
 + [JDK Download](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)
 + [ORACLE-DB Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
 + [OBPM Download](https://edelivery.oracle.com/osdc/faces/Home.jspx)
 
+1.  Nos logueamos con el usuario *root*.
 
+        # su
+
+    ![1](recursos/imgs/centos/obpm/obpm_1.png)
+
+2.  Actualizamos todos los paquetes de Centos 7.
+
+        # yum update
+
+    ![2](recursos/imgs/centos/obpm/obpm_2.png)
+
+3.  Instalamos Unzip
+
+        # yum install unzip
+
+    ![3](recursos/imgs/centos/obpm/obpm_3.png)
+
+4.  Cambiamos y asignamos los permisos necesarios a la carpeta **/opt**, ya que en esta ruta estarán todos los directorios y ficheros de toda la instalación.
+
+        # chmod -R 777 /opt/
+        # chown obpm /opt/
+
+    ![4](recursos/imgs/centos/obpm/obpm_4.png)
 
 
 
