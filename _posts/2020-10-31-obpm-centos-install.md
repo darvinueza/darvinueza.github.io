@@ -51,4 +51,4 @@ Se presenta la lista de herramientas que se requiere para completar la instalaci
 3. [Instalación Oracle Weblogic Server](3-weblogic-server)
 4. [Instalación Oracle SOA Suite](4-soa)
 5. [Instalación Oracle Business Process Management](5-obpm)
-6. [Instalación RCU](recursos/6_RCU.md)
+6. [Instalación RCU](6-rcu)
