@@ -62,7 +62,7 @@ Antes de comenzar con la instalación de la Base de Datos Oracle, debemos config
         obpm  hard  nproc   65536
         obpm  soft  stack   10240
 
-    ![odb_5](imgs/centos/odb/odb_5.png)
+    ![odb_5](../assets/obpm/centos/odb/odb_5.png)
 
 ### Configuración de Seguridad
 
