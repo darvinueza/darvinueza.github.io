@@ -46,7 +46,7 @@ Se presenta la lista de herramientas que se requiere para completar la instalaci
 {{site.baseurl}}
 
 1. [Instalación JDK](1-jdk)
-2. [Instalación Oracle Data Base](oracle-data-base)
+2. [Instalación Oracle Data Base](2-oracle-data-base)
 3. [Instalación Oracle Weblogic Server](recursos/3_WEBLOGIC.md)
 4. [Instalación Oracle SOA Suite](recursos/4_SOA.md)
 5. [Instalación Oracle Business Process Management](recursos/5_OBPM.md)
