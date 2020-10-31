@@ -1,6 +1,6 @@
-<div align="center">
-    <h1>INSTALACIÓN ORACLE DATA BASE</h1>
-</div>
+---
+title: INSTALACIÓN ORACLE DATA BASE
+---
 
 1. Nos ubicamos en la ruta donde se encuentra el archivo de instalación, en mi caso se encuentra en la ruta */home/obpm/instaladores/1_JDK* 
 
