@@ -49,5 +49,3 @@ Se presenta la lista de herramientas que se requiere para completar la instalaci
 4. [Instalación Oracle SOA Suite](recursos/4_SOA.md)
 5. [Instalación Oracle Business Process Management](recursos/5_OBPM.md)
 6. [Instalación RCU](recursos/6_RCU.md)
-
-[Link to another page](another-page).
