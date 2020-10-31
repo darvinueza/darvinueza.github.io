@@ -18,26 +18,26 @@ Antes de dar inicio a la instalación, por favor **descargue** los respectivos i
 
         # su
 
-    ![1](../assets/centos/obpm/obpm_1.png)
+    ![1](../assets/obpm/centos/obpm/obpm_1.png)
 
 2.  Actualizamos todos los paquetes de Centos 7.
 
         # yum update
 
-    ![2](../assets/centos/obpm/obpm_2.png)
+    ![2](../assets/obpm/centos/obpm/obpm_2.png)
 
 3.  Instalamos Unzip
 
         # yum install unzip
 
-    ![3](../assets/centos/obpm/obpm_3.png)
+    ![3](../assets/obpm/centos/obpm/obpm_3.png)
 
 4.  Cambiamos y asignamos los permisos necesarios a la carpeta **/opt**, ya que en esta ruta estarán todos los directorios y ficheros de toda la instalación.
 
         # chmod -R 777 /opt/
         # chown obpm /opt/
 
-    ![4](../assets/centos/obpm/obpm_4.png)
+    ![4](../assets/obpm/centos/obpm/obpm_4.png)
 
 ## INSTALACIÓN
 
