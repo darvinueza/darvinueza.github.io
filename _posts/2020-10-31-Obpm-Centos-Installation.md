@@ -6,7 +6,17 @@ published: true
 
 El presente documento pretende servir de guía para dar inicio a la instalación de un ambiente de desarrollo de **Oracle Business Process Management Standard Edition** en Centos 7.
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## REQUISITOS
+
+Antes de dar inicio a la instalación, por favor **descargue** las herramientas necesarias.
+
++ [JDK Download](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)
++ [ORACLE-DB Download](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html)
++ [OBPM Download](https://edelivery.oracle.com/osdc/faces/Home.jspx)
+
+
+
+
 
 [Link to another page](another-page).
 
