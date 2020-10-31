@@ -6,6 +6,7 @@ layout: default
   {% for post in paginator.posts %}
   <li>
     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
   </li>
   {% endfor %}
 </ul>
