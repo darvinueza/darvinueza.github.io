@@ -4,6 +4,8 @@ layout: default
 
 <ul>
   {% for post in paginator.posts %}
-  <h1>Ejemplo</h1>
+  <li>
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+  </li>
   {% endfor %}
 </ul>
