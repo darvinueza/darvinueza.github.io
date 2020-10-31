@@ -19,26 +19,26 @@ Antes de dar inicio a la instalación, por favor **descargue** los respectivos i
 
         # su
 
-    ![1](../assets/obpm/centos/obpm/obpm_1.png)
+    ![conf_1](../assets/obpm/centos/conf/conf_1.png)
 
 2.  Actualizamos todos los paquetes de Centos 7.
 
         # yum update
 
-    ![2](../assets/obpm/centos/obpm/obpm_2.png)
+    ![conf_2](../assets/obpm/centos/conf/conf_2.png)
 
 3.  Instalamos Unzip
 
         # yum install unzip
 
-    ![3](../assets/obpm/centos/obpm/obpm_3.png)
+    ![conf_3](../assets/obpm/centos/conf/conf_3.png)
 
 4.  Cambiamos y asignamos los permisos necesarios a la carpeta **/opt**, ya que en esta ruta estarán todos los directorios y ficheros de toda la instalación.
 
         # chmod -R 777 /opt/
         # chown obpm /opt/
 
-    ![4](../assets/obpm/centos/obpm/obpm_4.png)
+    ![conf_4](../assets/obpm/centos/conf/conf_4.png)
 
 ## INSTALACIÓN
 
@@ -50,5 +50,5 @@ Se presenta la lista de herramientas que se requiere para completar la instalaci
 2. [Instalación Oracle Data Base](2-oracle-data-base)
 3. [Instalación Oracle Weblogic Server](3-weblogic-server)
 4. [Instalación Oracle SOA Suite](4-soa)
-5. [Instalación Oracle Business Process Management](5-obpm.md)
+5. [Instalación Oracle Business Process Management](5-obpm)
 6. [Instalación RCU](recursos/6_RCU.md)
