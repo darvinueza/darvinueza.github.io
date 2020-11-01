@@ -30,7 +30,7 @@ flag: false
 
     ![start_5](../assets/obpm/centos/start-service/start_5.png)
 
-6. Nos logueamos con el usario *weblogic*, recordar que este es el usario administravcion que configuramos al momento de instalar el dominio.
+6. Nos logueamos con el usuario *weblogic*, recordar que este es el usuario administración que configuramos al momento de instalar el dominio.
 
     | **usuario** | **password** |
     | ----------- | ------------ |
@@ -39,6 +39,10 @@ flag: false
     ![start_6](../assets/obpm/centos/start-service/start_6.png)
 
     ![start_7](../assets/obpm/centos/start-service/start_7.png)
+
+7. Podemos visualizar los servidores que esta a disposición para ser usados, para ello nos dirigimos en el menú lateral y seleccionamos **Enviroemnt/Servers**.
+
+    ![start_8](../assets/obpm/centos/start-service/start_8.png)
 
 <div align="right">
     <a href="obpm-centos-install">
