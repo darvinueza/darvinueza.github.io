@@ -30,8 +30,15 @@ flag: false
 
     ![start_5](../assets/obpm/centos/start-service/start_5.png)
 
-6. 
+6. Nos logueamos con el usario *weblogic*, recordar que este es el usario administravcion que configuramos al momento de instalar el dominio.
 
+    | **usuario** | **password** |
+    | ----------- | ------------ |
+    | weblogic    | welcome01    |
+
+    ![start_6](../assets/obpm/centos/start-service/start_6.png)
+
+    ![start_7](../assets/obpm/centos/start-service/start_7.png)
 
 <div align="right">
     <a href="obpm-centos-install">
