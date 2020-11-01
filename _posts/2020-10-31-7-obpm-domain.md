@@ -39,6 +39,10 @@ flag: false
 
     ![domain_6](../assets/obpm/centos/domain/domain_6.png)
 
+7. Click en **Next**.
+
+    ![domain_7](../assets/obpm/centos/domain/domain_7.png)
+
 <div align="right">
     <a href="obpm-centos-install">
         <img src="../assets/icons/boton-back.png" title="Instalación OBPM Centos"  />
