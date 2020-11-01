@@ -71,6 +71,12 @@ flag: false
 
     ![domain_11](../assets/obpm/centos/domain/domain_11.png)
 
+12. Si todo esta correcto, debe presentarse una ventana similar a esta, click en **Next**.
+
+    ![domain_12](../assets/obpm/centos/domain/domain_12.png)
+
+13. 
+
 <div align="right">
     <a href="obpm-centos-install">
         <img src="../assets/icons/boton-back.png" title="Instalación OBPM Centos"  />
