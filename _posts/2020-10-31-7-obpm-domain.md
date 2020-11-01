@@ -22,7 +22,7 @@ flag: false
 
     ![domain_4](../assets/obpm/centos/domain/domain_4.png)
 
-5. Seleccionamos **Create a new domain** y en **Domain Location** colocamos la ruta sugerida por el wizard */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain* , click en **Next**.
+5. Seleccionamos **Create a new domain** y en **Domain Location** colocamos la ruta sugerida por el wizard */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain*, click en **Next**.
 
     ![domain_5](../assets/obpm/centos/domain/domain_5.png)
 
@@ -42,6 +42,14 @@ flag: false
 7. Click en **Next**.
 
     ![domain_7](../assets/obpm/centos/domain/domain_7.png)
+
+8. En **Application location** colocamos la ruta sugerida por el wizard */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/applications/base_domain*, click en **Next**.
+
+    ![domain_8](../assets/obpm/centos/domain/domain_8.png)
+
+9. Llenamos los valores solicitados **Name:** *weblogic* y **Password** *welcome01*, click en **Next**.
+
+    ![domain_9](../assets/obpm/centos/domain/domain_9.png)
 
 <div align="right">
     <a href="obpm-centos-install">
