@@ -10,6 +10,18 @@ flag: false
 
     ![domain_1](../assets/obpm/centos/domain/domain_1.png)
 
+2. Abrimos una Terminal y vamos a la ruta: **/opt/obpm/Oracle/Middleware/Oracle_Home/oracle_common/common/bin**
+
+    ![domain_2](../assets/obpm/centos/domain/domain_2.png)
+
+3. Ejecutamos el archivo **config.sh**.
+
+    ![domain_3](../assets/obpm/centos/domain/domain_3.png)
+
+4. Se abre el Asistente de Configuración del Dominio.
+
+    ![domain_4](../assets/obpm/centos/domain/domain_4.png)
+
 <div align="right">
     <a href="obpm-centos-install">
         <img src="../assets/icons/boton-back.png" title="Instalación OBPM Centos"  />
