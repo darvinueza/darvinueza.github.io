@@ -12,6 +12,8 @@ flag: false
 
 2. Nos dirigimos a la ruta donde instalamos el dominio, en nuestro caso es */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain*.
 
+        # cd /opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain
+
     ![start_2](../assets/obpm/centos/start-service/start_2.png)
 
 3. Iniciamos el servidor Weblogic, para ello ejecutamos el siguiente comando.
@@ -27,6 +29,8 @@ flag: false
 5. Abrimos un navegador en nuestro caso usaremos Chrome y colocamos la siguiente url: **http://obpm.domain:7001/console/**.
 
     ![start_5](../assets/obpm/centos/start-service/start_5.png)
+
+6. 
 
 
 <div align="right">
