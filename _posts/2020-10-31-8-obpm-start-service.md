@@ -75,6 +75,31 @@ Nos logeamos con el usuario que hicimos la instalación, en nuestro caso el usua
 
 ## START SOA SERVER
 
++ Nos dirigimos a la ruta donde instalamos el dominio, en nuestro caso es */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/bin/*.
+
+        # cd /opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/bin/
+    
+    ![start_13](../assets/obpm/centos/start-service/start_13.png)
+
++ Ejecutamos el siguiente comando.
+
+        # ./startManagedWebLogic.sh soa_server1
+
+    ![start_14](../assets/obpm/centos/start-service/start_14.png)
+
+
++ Se nos solicitara un usuario y password administrador de weblogic, proporcionamos estos valores y esperamos que suba el servidor.
+
+    | **usuario** | **password** |
+    | ----------- | ------------ |
+    | weblogic    | welcome01    |
+
+    ![start_15](../assets/obpm/centos/start-service/start_15.png)
+
++ Para validar si el usuario subió correctamente podemos ir a la consola de administración de Weblogic **http://obpm.domain:7001/console/** y en **Enviroemnt/Servers** visualizar el estado del *soa_server1*.
+
+    ![start_16](../assets/obpm/centos/start-service/start_16.png)
+
 <div align="right">
     <a href="obpm-centos-install">
         <img src="../assets/icons/boton-back.png" title="Instalación OBPM Centos"  />
