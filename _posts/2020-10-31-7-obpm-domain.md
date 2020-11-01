@@ -83,6 +83,41 @@ flag: false
 
     ![domain_14](../assets/obpm/centos/domain/domain_14.png)
 
+15. Click en **Next**.
+
+    ![domain_15](../assets/obpm/centos/domain/domain_15.png)
+
+16. Seleccionamos **Administration Server** y **Deployments and Services**, click en **Next**.
+
+    ![domain_16](../assets/obpm/centos/domain/domain_16.png)
+
+17. Click en **Next**.
+
+    ![domain_17](../assets/obpm/centos/domain/domain_17.png)
+
+18. Click en **Next**.
+
+    ![domain_18](../assets/obpm/centos/domain/domain_18.png)
+
+19. Click en **Next**.
+
+    ![domain_19](../assets/obpm/centos/domain/domain_19.png)
+
+20. Click en **Create**.
+
+    ![domain_20](../assets/obpm/centos/domain/domain_20.png)
+
+21. Click en **Next**.
+
+    ![domain_21](../assets/obpm/centos/domain/domain_21.png)
+
+22. Click en **Finish**.
+
+    + **Domain Location:** */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/*
+    + **Admin Server URL:** *http://obpm:7001/console*
+
+    ![domain_22](../assets/obpm/centos/domain/domain_22.png)
+
 <div align="right">
     <a href="obpm-centos-install">
         <img src="../assets/icons/boton-back.png" title="Instalación OBPM Centos"  />
