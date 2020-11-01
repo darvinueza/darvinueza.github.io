@@ -35,7 +35,7 @@ flag: false
     + Oracle WSM Policy Manager - 12.2.1.3.0 [oracle_common]
     + Weblogic Coherence Cluster Extension - 12.2.1.3.0 [wlserver]
 
-    click en **Next**.    
+    Click en **Next**.    
 
     ![domain_6](../assets/obpm/centos/domain/domain_6.png)
 
@@ -50,6 +50,26 @@ flag: false
 9. Llenamos los valores solicitados **Name:** *weblogic* y **Password** *welcome01*, click en **Next**.
 
     ![domain_9](../assets/obpm/centos/domain/domain_9.png)
+
+10. En **Domain Mode** seleccionamos **Development** y en **JDK** seleccionamos **Oracle HostSpot 1.8.0_192**, click en Next.
+
+    ![domain_10](../assets/obpm/centos/domain/domain_10.png)
+
+11. Llenamos los parametros de conexión que el wizard nos solicita:
+
+    |  NOMBRE             |  VALOR      |
+    | ------------------- | ----------- |
+    | **Vendor**          | Oracle      |
+    | **Driver**          | Oracle's Driver (Thin) for Service connections; ... |
+    | **Host Name**       | obpm.domain |
+    | **DBMS/Service**    | obpmdb      |
+    | **Port**            | 1521        |
+    | **Schema Owner**    | DEV_STB     |
+    | **Schema Password** | obpm2020  |
+
+    Click en **Get RCU Configuration**.
+
+    ![domain_11](../assets/obpm/centos/domain/domain_11.png)
 
 <div align="right">
     <a href="obpm-centos-install">
