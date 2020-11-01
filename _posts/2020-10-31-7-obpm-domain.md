@@ -27,15 +27,17 @@ flag: false
     ![domain_5](../assets/obpm/centos/domain/domain_5.png)
 
 6. Seleccionamos **Create Domain Using Product Templates** y de la lista de templetas se suguiere seleccionar:
-+ Oracle BPM Suite - 12.2.1.3.0 [soa]
-+ Oracle Business Activity Monitoring - 12.2.1.3.0 [soa]
-+ Oracle SOA Suite - 12.2.1.3.0 [soa]
-+ Oracle Enterprise Manager Suite - 12.2.1.3.0 [em]
-+ Oracle JRF - 12.2.1.3.0 [oracle_common]
-+ Oracle WSM Policy Manager - 12.2.1.3.0 [oracle_common]
-+ Weblogic Coherence Cluster Extension - 12.2.1.3.0 [wlserver]
+    + Oracle BPM Suite - 12.2.1.3.0 [soa]
+    + Oracle Business Activity Monitoring - 12.2.1.3.0 [soa]
+    + Oracle SOA Suite - 12.2.1.3.0 [soa]
+    + Oracle Enterprise Manager Suite - 12.2.1.3.0 [em]
+    + Oracle JRF - 12.2.1.3.0 [oracle_common]
+    + Oracle WSM Policy Manager - 12.2.1.3.0 [oracle_common]
+    + Weblogic Coherence Cluster Extension - 12.2.1.3.0 [wlserver]
 
-click en **Next**.    
+    click en **Next**.    
+
+    ![domain_6](../assets/obpm/centos/domain/domain_6.png)
 
 <div align="right">
     <a href="obpm-centos-install">
