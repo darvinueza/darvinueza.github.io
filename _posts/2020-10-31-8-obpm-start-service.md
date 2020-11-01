@@ -10,7 +10,7 @@ Nos logeamos con el usuario que hicimos la instalación, en nuestro caso el usua
 
 ![start_1](../assets/obpm/centos/start-service/start_1.png)
 
-## START WEBLOGIC
+## START WEBLOGIC SERVER
 
 + Nos dirigimos a la ruta donde instalamos el dominio, en nuestro caso es */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain*.
 
@@ -45,6 +45,10 @@ Nos logeamos con el usuario que hicimos la instalación, en nuestro caso el usua
 + Podemos visualizar los servidores que estan a disposición para ser usados, para ello nos dirigimos en el menú lateral y seleccionamos **Enviroemnt/Servers**. Se presentara una ventana en la que podemos visualizar información de los tres servidores [AdminServer(admin), bam_server1, soa_server1] que podemos usar como el nombre, el estado y el puerto de los mismos.
 
     ![start_8](../assets/obpm/centos/start-service/start_8.png)
+
+## START BAM SERVER
+
+## START SOA SERVER
 
 <div align="right">
     <a href="obpm-centos-install">
