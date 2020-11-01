@@ -48,6 +48,27 @@ Nos logeamos con el usuario que hicimos la instalación, en nuestro caso el usua
 
 ## START BAM SERVER
 
++ Nos dirigimos a la ruta donde instalamos el dominio, en nuestro caso es */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/bin/*.
+
+        # cd /opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/bin/
+    
+    ![start_9](../assets/obpm/centos/start-service/start_9.png)
+
++ Ejecutamos el siguiente comando.
+
+        # ./startManagedWebLogic.sh bam_server1
+
+    ![start_10](../assets/obpm/centos/start-service/start_10.png)
+
+
++ Se nos solicitara un usuario y password administrador de weblogic, proporcionamos estos valores y esperamos que suba el servidor.
+
+    | **usuario** | **password** |
+    | ----------- | ------------ |
+    | weblogic    | welcome01    |
+
+    ![start_11](../assets/obpm/centos/start-service/start_11.png)
+
 ## START SOA SERVER
 
 <div align="right">
