@@ -54,3 +54,4 @@ Se presenta la lista de herramientas que se requiere para completar la instalaci
 6. [Instalación RCU](6-obpm-rcu)
 7. [Creación de Dominio](7-obpm-domain)
 8. [Start Service](8-obpm-start-service)
+9. [Consolas](9-obpm-consols)
