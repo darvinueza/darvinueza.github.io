@@ -22,7 +22,7 @@ flag: false
 
     ![domain_4](../assets/obpm/centos/domain/domain_4.png)
 
-5. Seleccionamos **Create a new domain** y en **** colocamos la ruta sugerida por el wizard */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain* , click en **Next**.
+5. Seleccionamos **Create a new domain** y en **Domain Location** colocamos la ruta sugerida por el wizard */opt/obpm/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain* , click en **Next**.
 
     ![domain_5](../assets/obpm/centos/domain/domain_5.png)
 
