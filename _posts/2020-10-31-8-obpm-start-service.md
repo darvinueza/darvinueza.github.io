@@ -69,7 +69,7 @@ Nos logeamos con el usuario que hicimos la instalación, en nuestro caso el usua
 
     ![start_11](../assets/obpm/centos/start-service/start_11.png)
 
-+ Para validar si el usuario subió correctamente podemos ir a la consola de administración de Weblogic **http://obpm.domain:7001/console/** y en **Enviroemnt/Servers** visualizar el estado del *bam_server1*.
++ Para validar si el servidor subió correctamente podemos ir a la consola de administración de Weblogic **http://obpm.domain:7001/console/** y en **Enviroemnt/Servers** visualizar el estado del *bam_server1*.
 
     ![start_12](../assets/obpm/centos/start-service/start_12.png)
 
@@ -96,7 +96,7 @@ Nos logeamos con el usuario que hicimos la instalación, en nuestro caso el usua
 
     ![start_15](../assets/obpm/centos/start-service/start_15.png)
 
-+ Para validar si el usuario subió correctamente podemos ir a la consola de administración de Weblogic **http://obpm.domain:7001/console/** y en **Enviroemnt/Servers** visualizar el estado del *soa_server1*.
++ Para validar si el servidor subió correctamente podemos ir a la consola de administración de Weblogic **http://obpm.domain:7001/console/** y en **Enviroemnt/Servers** visualizar el estado del *soa_server1*.
 
     ![start_16](../assets/obpm/centos/start-service/start_16.png)
 
