@@ -46,9 +46,10 @@ Se presenta la lista de herramientas que se requiere para completar la instalaci
 
 {{site.baseurl}}
 
-1. [Instalación JDK](1-jdk)
-2. [Instalación Oracle Data Base](2-oracle-data-base)
-3. [Instalación Oracle Weblogic Server](3-weblogic-server)
+1. [Instalación JDK](1-obpm-jdk)
+2. [Instalación Oracle Data Base](2-obpm-oracle-data-base)
+3. [Instalación Oracle Weblogic Server](3-obpm-weblogic-server)
 4. [Instalación Oracle SOA Suite](4-soa)
-5. [Instalación Oracle Business Process Management](5-obpm)
-6. [Instalación RCU](6-rcu)
+5. [Instalación Oracle Business Process Management](5-obpm-obpm)
+6. [Instalación RCU](6-obpm-rcu)
+7. [Creación de Dominio](7-obpm-domain)
