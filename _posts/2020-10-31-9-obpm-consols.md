@@ -50,19 +50,19 @@ Se presenta una lista de productos que tiene a disposición una ves que haya cul
 
 + http://obpm.domain:7004/bpm/workspace
 
-![consols_9](../assets/obpm/centos/consols/consols_9.png)
+![consols_7](../assets/obpm/centos/consols/consols_7.png)
 
 ## User Messaging Preference UI
 
 + http://obpm.domain:7004/sdpmessaging/userprefs-ui
 
-![consols_7](../assets/obpm/centos/consols/consols_7.png)
+![consols_8](../assets/obpm/centos/consols/consols_8.png)
 
 ## WSM Policy Manager Validation
 
 + http://obpm.domain:7004/wsm-pm/
 
-![consols_8](../assets/obpm/centos/consols/consols_8.png)
+![consols_9](../assets/obpm/centos/consols/consols_9.png)
 
 ## B2B Console
 
