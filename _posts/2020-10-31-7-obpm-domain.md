@@ -4,7 +4,7 @@ published: true
 flag: false 
 ---
 
-1. Nos deslogeamos como *root* y nos logeamos con el usuario que deseamos instalar, en mi caso el usuario se llama *obpm*.
+1. Nos deslogeamos como *root* y nos logeamos con el usuario que deseamos instalar, en nuestro caso el usuario se llama *obpm*.
 
         # su obpm
 
