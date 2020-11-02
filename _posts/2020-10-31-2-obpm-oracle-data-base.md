@@ -64,24 +64,6 @@ Antes de comenzar con la instalación de la Base de Datos Oracle, debemos config
 
     ![odb_5](../assets/obpm/centos/odb/odb_5.png)
 
-### Configuración de Seguridad
-
-+ Editamos el archivo **limits.conf**.
-
-        # vim /etc/security/limits.conf
-
-    ![odb_4](../assets/obpm/centos/odb/odb_4.png)
-
-+ Pegamos las siguientes lineas en el archivo **limits.conf**.
-
-        obpm  soft  nofile  1024
-        obpm  hard  nofile  65536
-        obpm  soft  nproc   16384
-        obpm  hard  nproc   65536
-        obpm  soft  stack   10240
-
-    ![odb_5](../assets/obpm/centos/odb/odb_5.png)
-
 ### Instalación de Paquetes necesarios
 
 + Instalamos los siguientes paquetes.
