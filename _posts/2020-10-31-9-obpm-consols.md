@@ -64,6 +64,12 @@ Se presenta una lista de productos que tiene a disposición una ves que haya cul
 
 ![consols_8](../assets/obpm/centos/consols/consols_8.png)
 
+## B2B Console
+
++ http://obpm.domain:7004/b2bconsole
+
+![consols_10](../assets/obpm/centos/consols/consols_10.png)
+
 <div align="right">
     <a href="obpm-centos-install">
         <img src="../assets/icons/boton-back.png" title="Instalación OBPM Centos"  />
