@@ -5,6 +5,8 @@ published: true
 flag: true
 ---
 
+ ![obpm](../assets/obpm.png)
+
 El presente documento pretende servir de guía para dar inicio a la instalación de un ambiente de desarrollo de **Oracle Business Process Management Standard Edition** en Centos 7.
 
 ## REQUISITOS
