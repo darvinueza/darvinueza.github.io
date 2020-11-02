@@ -83,7 +83,7 @@ Antes de comenzar con la instalación de la Base de Datos Oracle, debemos config
 
     ![odb_6](../assets/obpm/centos/odb/odb_6.png)
 
-+ Verificamos la IP del servidor, y le damos el nombre de dominio que creamos conveniente, en mi caso la IP es *192.168.28.133* y el HOST_NAME es *obpm.domain*.
++ Verificamos la IP del servidor, y le damos el nombre de dominio que creamos conveniente, en nuestro caso la IP es *192.168.28.135* y el HOST_NAME es *obpm.domain*.
 
         192.168.28.135  obpm.domain     obpm
 
@@ -91,13 +91,13 @@ Antes de comenzar con la instalación de la Base de Datos Oracle, debemos config
 
 ### Instalación Oracle Data Base
 
-1. Nos deslogeamos como *root* y nos logeamos con el usuario que deseamos instalar, en mi caso el usuario se llama *obpm*.
+1. Nos deslogeamos como *root* y nos logeamos con el usuario que deseamos instalar, en nuestro caso el usuario se llama *obpm*.
 
         # su obpm
     
     ![odb_8](../assets/obpm/centos/odb/odb_8.png)
 
-2. Iniciamos con la instalación, abrimos la carpeta donde se encuentra el instalador de la base de datos, en mi caso esta en la ruta *home/obpm/instaladores/2_ODB/database/*.
+2. Iniciamos con la instalación, abrimos la carpeta donde se encuentra el instalador de la base de datos, en nuestro caso la ruta es *home/obpm/instaladores/2_ODB/database/*.
 
         # cd home/obpm/instaladores/2_ODB/database/
         # ls
