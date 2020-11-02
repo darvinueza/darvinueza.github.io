@@ -2,16 +2,29 @@
 layout: default
 ---
 
-<ul>
-  {% for post in paginator.posts %}
-  {% if post.flag == true %}
-  <li>
-    <h2>
-      <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-    </h2>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-    <p>{{ post.description | strip_html | truncatewords:30 }}</p>
-  </li>
-  {% endif %}
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="assets/obpm.png" property='og:image' />
+  <title>Document</title>
+</head>
+
+<body>
+  <ul>
+    {% for post in paginator.posts %}
+    {% if post.flag == true %}
+    <li>
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+      </h2>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      <p>{{ post.description | strip_html | truncatewords:30 }}</p>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</body>
+
+</html>
