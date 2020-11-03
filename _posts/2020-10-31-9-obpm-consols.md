@@ -1,5 +1,5 @@
 ---
-title: CREACIÓN DE DOMINIO
+title: CONSOLAS OBPM
 published: true
 flag: false 
 ---
